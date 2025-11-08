@@ -1,1 +1,1 @@
-# mygpu
+# self-gpu
